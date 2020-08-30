@@ -1,5 +1,7 @@
 # AWS-Materials
 
+* Bullet List
+
 Lab1 - EC2-Creating and Login to Windows Instance – for Beginners
 Lab2 - EC2-Configure Webserver in Windows for Beginners
 Lab3 - EC2-Configuring Appache server in Linux instance
