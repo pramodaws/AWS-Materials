@@ -1,11 +1,10 @@
 # AWS-Materials
 
-* Bullet List
 
-Lab1 - EC2-Creating and Login to Windows Instance – for Beginners
-Lab2 - EC2-Configure Webserver in Windows for Beginners
-Lab3 - EC2-Configuring Appache server in Linux instance
-Lab4 - Creating AMI by using Linux instance
+* Lab1 - EC2-Creating and Login to Windows Instance – for Beginners
+* Lab2 - EC2-Configure Webserver in Windows for Beginners
+* Lab3 - EC2-Configuring Appache server in Linux instance
+* Lab4 - Creating AMI by using Linux instance
 Lab5 - Configure Elastic BeanstalkLab6 - Configure EBS Volumes
 Lab6 - Configure EBS Volumes
 Lab7 - S3 basic configuration, Versioning _ Static website hosting
